@@ -10,7 +10,7 @@ const Home = (): JSX.Element => {
     return (
         <div className="container">
             <Head>
-                <title>Magic Wallet</title>
+                <title>Logan Wallet</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
