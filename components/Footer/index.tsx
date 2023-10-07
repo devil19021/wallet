@@ -8,7 +8,7 @@ const Footer = () => (
                 rel="noopener noreferrer"
                 href="https://entreprenerd.xyz/"
             >
-                Developed by Alex The Entreprenerd
+                Developed by Logan
             </a>
         </p>
         <p>
@@ -26,7 +26,7 @@ const Footer = () => (
                 rel="noopener noreferrer"
                 href="https://magic.link/"
             >
-                Development sponsored by Magic
+                Development sponsored by Devil
             </a>
         </p>
     </div>
